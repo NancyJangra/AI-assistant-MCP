@@ -6,7 +6,7 @@
 ![Groq](https://img.shields.io/badge/Groq-LLM-orange?style=for-the-badge)
 ![Playwright](https://img.shields.io/badge/Playwright-Browser_Automation-darkgreen?style=for-the-badge)
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-Web_Search-yellow?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Learning_Project-red?style=for-the-badge)
+
 
 An AI-powered assistant built using **MCP (Model Context Protocol)**, **LangChain**, and **Groq** to explore modern **Agentic AI workflows**.
 
